@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 🔥 Custom Profile Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:000000&height=220&section=header&text=Sudeesha%20Ravisara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 🔥 Custom Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=220&section=header&text=Shashin%20Peiris&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 🎓 Software Engineering Undergraduate | NSBM Green University
-### 🚀 Full Stack Developer | Continuous Learner | Tech Enthusiast
+### 🎓 Software Engineering Undergraduate at NSBM | BIT Student at UCSC  
+### 🚀 Aspiring Full Stack Developer | Problem Solver | Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=800000&center=true&vCenter=true&width=700&lines=BSc+(Hons)+Software+Engineering;Full+Stack+Developer;Specializing+in+Spring+Boot+%26+React;Always+Exploring+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=BSc+(Hons)+Software+Engineering+at+NSBM;BIT+Undergraduate+at+UCSC;Full+Stack+Java+%26+React+Developer;Completed+BIT+1st+Year+Diploma+Level" />
 
 </div>
 
@@ -14,72 +14,87 @@
 
 # 🚀 About Me
 
-🧠 I'm a passionate developer currently pursuing my **BSc (Hons) in Software Engineering** at **NSBM Green University**. I love designing layered software architectures, optimizing databases, and building smooth web applications from scratch.
+🧠 I'm a highly motivated dual-degree student pursuing a **BSc (Hons) in Software Engineering** at **NSBM Green University** alongside a **Bachelor of Information Technology (BIT)** external degree at the **University of Colombo School of Computing (UCSC)**. I specialize in designing structured, layered backend architectures, handling database relationships, and building clean web applications.
 
-*   🔭 **Current Projects:** Building scalable full-stack applications with modular structures.
-*   📚 **Actively Learning:** Advanced Core Architecture, Spring Boot optimizations, and React UI practices.
-*   🌱 **Academic Status:** 2nd Year Student.
-*   ⚡ **Core Focus:** Full Stack Development, System Design, and Database Management.
+*   🏛️ **NSBM Green University:** Pursuing BSc (Hons) Software Engineering (2nd Year).
+*   🏛️ **UCSC (External):** Following Bachelor of Information Technology (BIT) — 🎉 **Completed 1st Year Diploma Level!**
+*   🔭 **Current Projects:** Crafting scalable modular applications using Java, Spring Boot, and React.
+*   🌱 **Actively Enhancing:** Data Structures & Algorithms, Advanced Computer Networks, and System Design patterns.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💾 Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💻 Programming Languages & Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🌐 Web Development & Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
 
-### 🗄️ Database Management
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ DevOps & Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## ⚙️ Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
 # 📌 Featured Projects
 
-### 🛠️ [SpareHubLK](https://github.com/sudeesharavisara2-sys/sparehublk)
-A dedicated web platform designed for an automotive spare parts shop, engineered featuring a sleek, responsive red and black theme layout.
+### 🛠️ [SpareHubLK](https://github.com/Shashin2002/sparehublk)
+A web application designed and developed for an automotive spare parts shop. Built featuring a responsive UI customized around a distinct black, red, and white color profile theme.
 
-### 💻 [NextStep (Core & Frontend)](https://github.com/sudeesharavisara2-sys/nextstep-frontend)
-A modern Student Registration System backend and frontend architecture. Designed and built handling secure core modules, database relations, and smooth registration flows.
+### 💻 [NextStep (Core & Frontend)](https://github.com/Shashin2002/nextstep-frontend)
+A robust Student Registration System project. Took charge of implementing the core backend architecture, processing secure database configurations, and setting up clean authentication flows.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudeesharavisara2-sys&show_icons=true&theme=dark&hide_border=true&title_color=800000&icon_color=800000" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeesharavisara2-sys&layout=compact&theme=dark&hide_border=true&title_color=800000" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shashin2002&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Performance & Metrics
+# 🔥 GitHub Streak
 
-### 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudeesharavisara2-sys&theme=dark&no-frame=true&row=1&column=6" />
+
+<img src="https://streak-stats.demolab.com?user=Shashin2002&theme=tokyonight&hide_border=true" />
+
 </div>
 
-### 📈 Contribution Activity Graph
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeesharavisara2-sys&theme=react-dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shashin2002&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashin2002&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
@@ -87,23 +102,35 @@ A modern Student Registration System backend and frontend architecture. Designed
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/sudeesharavisara2-sys" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+<a href="https://github.com/Shashin2002" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/shashin-sandeepa-6956a9253" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:sudeesharavisara2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:shashinsandeepa2002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
+
+---
+
+# ✨ Motto
+
+<div align="center">
+
+> “Learn Today. Build Tomorrow. Improve Forever.”
+
+</div>
 
 ---
 
 <div align="center">
 
-> “Driven by logic, focused on building impactful software solutions.”
-
-![Profile Views](https://komarev.com/ghpvc/?username=sudeesharavisara2-sys&color=800000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashin2002&color=8A2BE2&style=for-the-badge)
 
 </div>
