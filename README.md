@@ -58,9 +58,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashin2002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin2002&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=Shashin2002&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Shashin">
+<a href="https://github.com/Shashin2002">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
