@@ -14,12 +14,12 @@
 
 # 🚀 About Me
 
-🧠 I'm a passionate developer currently pursuing my **BSc (Hons) in Software Engineering** at **NSBM Green University**. I thrive on building scalable web applications, optimizing backend architectures, and diving deep into system design.
+🧠 I'm a passionate developer currently pursuing my **BSc (Hons) in Software Engineering** at **NSBM Green University**. I love designing layered software architectures, optimizing databases, and building smooth web applications from scratch.
 
-*   🔭 **Current Focus:** Building robust Full Stack Projects.
-*   📚 **Learning Path:** Advanced System Design, Spring Boot optimizations, and React frontend structures.
+*   🔭 **Current Projects:** Building scalable full-stack applications with modular structures.
+*   📚 **Actively Learning:** Advanced Core Architecture, Spring Boot optimizations, and React UI practices.
 *   🌱 **Academic Status:** 2nd Year Student.
-*   ⚡ **Interests:** Backend Frameworks, Database Optimization, and Software Engineering methodologies.
+*   ⚡ **Core Focus:** Full Stack Development, System Design, and Database Management.
 
 ---
 
@@ -46,6 +46,16 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+### 🛠️ [SpareHubLK](https://github.com/sudeesharavisara2-sys/sparehublk)
+A dedicated web platform designed for an automotive spare parts shop, engineered featuring a sleek, responsive red and black theme layout.
+
+### 💻 [NextStep (Core & Frontend)](https://github.com/sudeesharavisara2-sys/nextstep-frontend)
+A modern Student Registration System backend and frontend architecture. Designed and built handling secure core modules, database relations, and smooth registration flows.
 
 ---
 
