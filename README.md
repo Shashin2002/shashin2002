@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashin Sandeepa
+<!-- 🔥 Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=220&section=header&text=Shashin%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### 🎓 Software Engineering Undergraduate | BIT Student at UCSC  
 ### 🚀 Aspiring Full Stack Developer | Problem Solver | Tech Enthusiast
@@ -8,7 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;BIT+Student+at+UCSC;Full+Stack+Developer+in+Progress;Always+Learning+New+Tech" />
 
 </div>
-
 ---
 
 # 🚀 About Me
