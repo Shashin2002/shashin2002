@@ -2,11 +2,10 @@
 
 # 👋 Hi, I'm Shashin Sandeepa
 
-### 🎓 BSc (Hons) Software Engineering Undergraduate  
-### 💻 BIT Undergraduate at UCSC  
-### 🚀 Future Full Stack & Software Developer
+### 🎓 Software Engineering Undergraduate | BIT Student at UCSC  
+### 🚀 Aspiring Full Stack Developer | Problem Solver | Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;BIT+Undergraduate+at+UCSC;Passionate+Programmer;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;BIT+Student+at+UCSC;Full+Stack+Developer+in+Progress;Always+Learning+New+Tech" />
 
 </div>
 
@@ -14,53 +13,57 @@
 
 # 🚀 About Me
 
-🎓 Currently studying **BSc (Hons) in Software Engineering**  
-📚 Present in **2nd Year – 2nd Semester**  
+🎓 BSc (Hons) Software Engineering Undergraduate  
+📚 Currently in **2nd Year – 2nd Semester**  
 🏛️ Following **Bachelor of Information Technology (BIT)** at UCSC  
-✅ Successfully completed **Diploma Level / 1st Year** of BIT  
-💡 Passionate about:
-- Software Development
-- Web Development
-- Database Systems
-- UI/UX Design
-- Problem Solving
+📜 Completed Diploma Level / 1st Year  
 
-🌱 Currently Learning:
-- Full Stack Development
-- Computer Networks
+💡 Interests:
+- Full Stack Web Development
+- Database Systems
+- Software Engineering
+- UI/UX Design
+- Problem Solving & Algorithms
+
+🌱 Currently Improving:
 - Data Structures & Algorithms
-- Database Management Systems
-- Software Architecture
+- Computer Networks
+- Advanced Web Development
+- Database Design (MySQL)
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
+## 💻 Programming Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C#](https://skillicons.dev/icons?i=cs)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-## 💻 Languages
+## 🌐 Web Development
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cs,mysql" />
-
-## 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" />
-
-## ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
+## ⚙️ Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashin2002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shashin2002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin2002&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shashin2002&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=Shashin2002&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -80,17 +83,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shashin2002&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashin2002&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -98,13 +101,13 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Shashin2002">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/shashin-sandeepa-6956a9253">
+<a href="https://www.linkedin.com/in/shashin-sandeepa-6956a9253">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -112,22 +115,22 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+</p>
+
+---
+
+# ✨ Motto
+
+<div align="center">
+
+> “Learn. Build. Improve. Repeat.”
+
 </div>
 
 ---
 
-# ✨ Personal Motto
-
 <div align="center">
 
-### 🚀 "Learn Today. Build Tomorrow. Improve Forever."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Shashin2002&color=8A2BE2&style=for-the-badge)
 
 </div>
