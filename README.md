@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 # 🚀 About Executive Summary
 
