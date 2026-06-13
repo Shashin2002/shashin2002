@@ -16,7 +16,7 @@
 
 # 🚀 About Executive Summary
 
-```💡 High-level dual-track academic path focused on engineering clean code, system architecture, and optimization.```
+``💡 High-level dual-track academic path focused on engineering clean code, system architecture, and optimization.```
 
 ### 🏛️ Higher Education & Academics
 *   **NSBM Green University**  
