@@ -1,36 +1,39 @@
-<!-- =========================================================
-     SHASHIN PEIRIS — GITHUB PROFILE README
-========================================================= -->
+<!-- =====================================================
+     SHASHIN PEIRIS — LIVE GITHUB PROFILE
+===================================================== -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:6f2cf3,100:ff007f&height=180&section=header&text=Shashin%20Peiris&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%7C%20Undergraduate&descAlignY=58&descSize=15"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:6f2cf3,100:ff007f&height=190&section=header&text=Shashin%20Peiris&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=60&descSize=14"
 />
 
 ### 👋 Hi, I'm Shashin Peiris
 
 **Full Stack Software Engineer · Software Engineering Undergraduate · Systems Architecture Enthusiast**
 
-<sub>Building clean backend systems, responsive web applications, and scalable software solutions.</sub>
+Building clean backend systems, responsive applications and scalable software solutions.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/shashin-sandeepa-6956a9253">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Shashin2002">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:shashinsandeepa2002@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shashin2002&label=PROFILE%20VIEWS&color=6f2cf3&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Shashin2002?label=FOLLOWERS&style=flat-square&color=ff007f" />
+<img src="https://komarev.com/ghpvc/?username=Shashin2002&label=PROFILE+VIEWS&color=6f2cf3&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/Shashin2002?label=FOLLOWERS&style=flat-square&color=ff007f"/>
 
 </div>
 
@@ -40,29 +43,30 @@
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
-I'm a **Software Engineering undergraduate** focused on building reliable,
-maintainable, and user-friendly software applications.
-
-- 🎓 Studying **BSc (Hons) Software Engineering** at **NSBM Green University**
-- 🎓 Following **BIT External** at the **University of Colombo School of Computing**
-- 💻 Interested in **Full Stack Development & Backend Engineering**
-- 🏗️ Exploring **Software Architecture & Layered System Design**
-- 🔐 Interested in **API development, security, authentication & authorization**
-- 🗄️ Working with **relational databases and structured backend systems**
-- 🌱 Continuously improving my knowledge of modern software engineering practices
+- 🎓 **BSc (Hons) Software Engineering** — NSBM Green University
+- 🎓 **BIT External** — University of Colombo School of Computing
+- 💻 Focused on **Full Stack Development**
+- ☕ Building backend applications with **Java & Spring Boot**
+- ⚛️ Building responsive interfaces with **React**
+- 🔐 Interested in **REST APIs, Authentication & Authorization**
+- 🗄️ Working with **relational database systems**
+- 🏗️ Learning **Software Architecture & Layered Design**
+- 🌱 Continuously improving my software engineering skills
 
 </td>
 
 <td width="35%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-  width="250"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+width="245"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -72,190 +76,158 @@ maintainable, and user-friendly software applications.
 
 <div align="center">
 
-### 🔹 Backend & APIs
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,php&theme=dark" />
-
-<br/><br/>
-
-### 🔹 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,php&theme=dark"/>
 
 <br/><br/>
 
-### 🔹 Database
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-<br/><br/>
-
-### 🔹 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark"/>
 
 <br/><br/>
 
-### 🔹 Tools & Development
+### Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+
+<br/><br/>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,php&theme=dark"/>
+
+<br/><br/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Engineering Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚗 SpareHubLK
+### 🎓 NSBM Student Hub
 
-**Automotive E-Commerce Platform**
+A Spring Boot application designed around student-focused academic services.
 
-A web-based automotive spare-parts platform designed around a clean,
-responsive interface and structured business workflows.
+**Technology**
 
-**Highlights**
-
-- Responsive modern user interface
-- Modular frontend structure
-- Automotive product management
-- E-commerce focused workflows
-- Structured application architecture
+`Java` `Spring Boot`
 
 <br/>
 
-<a href="https://github.com/Shashin2002/sparehublk">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Shashin2002/nsbm-student-hub">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
+
 <td width="50%" valign="top">
 
-### 🎓 NextStep
+### 🚀 NextStep
 
-**Student Management System**
+React/Vite frontend application connected to a backend API.
 
-An academic management application designed for structured student
-registration and backend data management.
+**Technology**
 
-**Highlights**
-
-- REST API development
-- Student registration workflows
-- Authentication & authorization concepts
-- Controller → Service → Repository architecture
-- Structured database integration
+`React` `JavaScript` `Vite`
 
 <br/>
 
 <a href="https://github.com/Shashin2002/nextstep-frontend">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 📊 GitHub Status
+## 📊 Live GitHub Statistics
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Shashin2002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff007f&text_color=c9d1d9&ring_color=6f2cf3"
-/>
+<!-- Generated automatically by GitHub Actions -->
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashin2002&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-/>
-
-<br/><br/>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Shashin2002&hide_border=true&background=0D1117&stroke=30363D&ring=6F2CF3&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
-/>
-
-</div>
-
----
-
-## 📈 GitHub Profile Summary
-
-<div align="center">
-
-<img
-  width="90%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashin2002&theme=github_dark"
+width="95%"
+src="./profile-summary-card-output/github_dark/0-profile-details.svg"
 />
 
 <br/>
 
 <img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashin2002&theme=github_dark"
+width="46%"
+src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
 />
 
 <img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shashin2002&theme=github_dark"
+width="46%"
+src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
 />
 
 <br/>
 
 <img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashin2002&theme=github_dark"
+width="46%"
+src="./profile-summary-card-output/github_dark/3-stats.svg"
 />
 
 <img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shashin2002&theme=github_dark&utcOffset=5.5"
+width="46%"
+src="./profile-summary-card-output/github_dark/4-productive-time.svg"
 />
 
 </div>
 
 ---
 
-## 📉 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shashin2002&bg_color=0d1117&color=c9d1d9&line=6f2cf3&point=ff007f&area=true&area_color=6f2cf3&hide_border=true"
+width="75%"
+src="./profile/streak.svg"
+alt="Shashin Peiris GitHub Streak"
 />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## ⚡ Recent GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Shashin2002&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-/>
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## 👀 Profile Visitors
+## 📌 Current GitHub Activity
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shashin2002&style=for-the-badge&color=6f2cf3&label=PROFILE+VISITORS" />
+These statistics are updated automatically using GitHub Actions.
+
+**Profile Summary:** automatic  
+**Contribution Streak:** automatic  
+**Recent Activity:** automatic  
+**Followers:** dynamic  
+**Profile Views:** dynamic
 
 </div>
 
@@ -266,28 +238,26 @@ registration and backend data management.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shashin-sandeepa-6956a9253">
-  <img src="https://img.shields.io/badge/LinkedIn-Shashin%20Peiris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Shashin%20Peiris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Shashin2002">
-  <img src="https://img.shields.io/badge/GitHub-Shashin2002-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Shashin2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:shashinsandeepa2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ### 💡 *“Simplicity is the soul of efficiency.”*
 
-<br/>
-
 ⭐ **Thanks for visiting my profile!**
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f2cf3,100:ff007f&height=120&section=footer"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f2cf3,100:ff007f&height=120&section=footer"
 />
 
 </div>
